@@ -1,3 +1,3 @@
 {
-    "mongoURI": "mongodb+srv://maddie:abcd1234@mern-app-obljo.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": ""
 }
